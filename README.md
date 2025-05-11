@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me @luther_21
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Jesus Christ rose from the dead
 
 <!---
 Senzo21/Senzo21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
